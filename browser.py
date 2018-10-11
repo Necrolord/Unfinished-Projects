@@ -1,5 +1,5 @@
 ##############################################################
-# Creator: Necrolord
+# Author: Necrolord
 # Version: 0.0.1
 # Date: 07/10/2018
 # Goal: Building a web browser software
