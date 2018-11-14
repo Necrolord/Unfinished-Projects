@@ -180,4 +180,3 @@ calc = Calculator(root)
  
 # Run the app until exited 
 root.mainloop()
-
